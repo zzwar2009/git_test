@@ -1,1 +1,1 @@
-test for git  debug debug2
+test for git  debug debug2 remote-test
