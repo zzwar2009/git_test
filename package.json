@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/zzwar2009/git_test#readme",
   "dependencies": {
-    "node-sass": "^4.7.2"
+    "node-sass": "^4.7.2",
+    "karma": "^1.7.1",
+    "karma-chai": "^0.1.0"
   }
 }
