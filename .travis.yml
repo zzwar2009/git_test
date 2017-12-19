@@ -5,7 +5,3 @@ install: true
 script:
   - chmod 755 ./test.sh
   - ./test.sh
-cache:
-  directories:
-    - ./.sass-cache
-    - ./node_modules
