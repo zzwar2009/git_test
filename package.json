@@ -21,5 +21,8 @@
     "node-sass": "^4.7.2",
     "karma": "^1.7.1",
     "karma-chai": "^0.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.10.0"
   }
 }
